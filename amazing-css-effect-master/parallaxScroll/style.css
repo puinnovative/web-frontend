@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.flowImage {
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed; 
+    border: 1px sloid red;
+}
+
+.bg1 {
+    background-image: url(images/1.jpg);
+}
+
+.bg2 {
+    background-image: url(images/2.jpg);
+}
+
+.bg3 {
+    background-image: url(images/3.jpg);
+}
+
+.bg4 {
+    background-image: url(images/4.jpg);
+}
+
+.bg5 {
+    background-image: url(images/5.jpg);
+}
+
+.bg6 {
+    background-image: url(images/6.jpg);
+}
